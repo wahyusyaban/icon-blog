@@ -2,11 +2,9 @@
  "name": "Marwanto606",
  "display": "standalone",
  "prefer_related_applications": false,
- "start_url":"https://marwanto606.com",
+ "start_url":"https://marwanto606.com/",
  "background_color": "#007fa0",
  "theme_color": "#007fa0",
- "start_url":".",
- "scope":"/",
  "icons": [
   {
    "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-36x36.png",
@@ -37,7 +35,7 @@
    "purpose": "any maskable"
   },
   {
-   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/apple-icon-114x114.png",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/apple-icon-144x144.png",
    "sizes": "144x144",
    "type": "image/png",
    "density": "3.0",
