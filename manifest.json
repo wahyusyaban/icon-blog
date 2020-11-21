@@ -5,6 +5,8 @@
  "start_url":"https://marwanto606.com",
  "background_color": "#007fa0",
  "theme_color": "#007fa0",
+ "start_url":".",
+ "scope":"/",
  "icons": [
   {
    "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-36x36.png",
