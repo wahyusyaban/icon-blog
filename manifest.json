@@ -7,49 +7,49 @@
  "theme_color": "#007fa0",
  "icons": [
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-36x36.png?alt=media&token=4c2049c2-7711-4513-a04d-6fc159d22022",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-36x36.png",
    "sizes": "36x36",
    "type": "image/png",
    "density": "0.75",
    "purpose": "any maskable"
   },
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-48x48.png?alt=media&token=b201fdd0-087d-423d-b27d-31fe76dfa0ea",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-48x48.png",
    "sizes": "48x48",
    "type": "image/png",
    "density": "1.0",
    "purpose": "any maskable"
   },
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-72x72.png?alt=media&token=6d05073d-50ac-4c4b-afe0-50b7340318ef",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-72x72.png",
    "sizes": "72x72",
    "type": "image/png",
    "density": "1.5",
    "purpose": "any maskable"
   },
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-96x96.png?alt=media&token=4856aac8-3498-41e0-a4d0-c6861693ec89",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-96x96.png",
    "sizes": "96x96",
    "type": "image/png",
    "density": "2.0",
    "purpose": "any maskable"
   },
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fapple-icon-114x114.png?alt=media&token=703875e3-19de-4a4c-b12c-44bd8f25e108",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/apple-icon-114x114.png",
    "sizes": "144x144",
    "type": "image/png",
    "density": "3.0",
    "purpose": "any maskable"
   },
   {
-   "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-192x192.png?alt=media&token=7871f668-f7c7-4bb6-a0a7-fd59f4301183",
+   "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-192x192.png",
    "sizes": "192x192",
    "type": "image/png",
    "density": "4.0",
    "purpose": "any maskable"
   },
   {
-    "src": "https://firebasestorage.googleapis.com/v0/b/marwanto606-com.appspot.com/o/icon-blog%2Fandroid-icon-512x512.png?alt=media&token=951dfc2b-bfa5-4530-92c5-83a0f26db64c",
+    "src": "https://cdn.statically.io/gh/marwanto606/icon-blog/main/android-icon-512x512.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "4.0",
